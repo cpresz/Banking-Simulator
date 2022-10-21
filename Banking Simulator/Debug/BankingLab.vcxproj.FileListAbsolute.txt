@@ -1,0 +1,2 @@
+C:\Users\carly\Documents\MyVisualStudioProjects\C++\BankingLab\Debug\BankingLab.exe
+C:\Users\carly\Documents\MyVisualStudioProjects\C++\BankingLab\Debug\BankingLab.pdb
